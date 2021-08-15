@@ -1,0 +1,61 @@
+.present {
+    border: rgb(104, 100, 100);
+    border-style: solid;
+    border-radius: 10px;
+    width: 80%;
+    height : 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding : 20px;
+    margin-top: 20px;
+    position:relative;
+    background-image: url("/my-website/assets/bg-image-1.jpg");
+    background-size: cover;
+}
+h2{
+  text-align: center;
+  padding-left: 10px;
+  justify-content: left;
+
+}
+.present-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position:relative;
+
+    border: rgb(104, 100, 100);
+    border-style:solid;
+    border-radius: 10px;
+    margin : 10px 10px 10px 0px;
+    width: "calc(100% - 100px)";
+    height : 100%;
+    padding: 10px 10px 10px 10px;
+    background-color:rgb(205, 245, 235);
+    justify-content: left;
+}
+
+.image{ 
+  height : 200px;
+  width : 200px;
+  float: left;
+  border: rgb(104, 100, 100);
+  border-style: solid;
+  border-radius: 10px;
+  border-width: thin;
+}
+
+.content{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 25px;
+  margin-right: 50px;
+  text-align: left;
+  word-wrap: break-word; 
+  font-size: 15px;
+  font-family: sans-serif, Helvetica,monospace,'Helvetica Neue', 'Open Sans', 'Segoe UI',sans-serif;
+}
+
+p{
+  padding-top: 10px;
+}

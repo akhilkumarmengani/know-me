@@ -1,0 +1,30 @@
+{
+    "aboutme":{
+        "name":"Akhil Kumar Mengani",
+        "description":["I am a Software Engineer with 34 months of work experience and currently work on building HCM Cloud Application at Oracle"]
+    },
+    "workexperiences":[
+        {
+            "company":"Oracle",
+            "period":"July 2018 - June 2021",
+            "contributions" : ["Developed an application which manages the employee life cycle events and the activities that occur between onboarding and off boarding in the organization",
+            "Developed various features in the Oracle Human Capital Management application and resolved bugs for 8 release cycles.",
+            "Automated actions using Event-driven Service Oriented architecture",
+            "Developed notification service which sends emails, reminders and application notifications to the users"]
+        }
+    ],
+    "projects":[
+        {
+            "title" : "Classification of Age Groups in Facebook using Deep Learning",
+            "description": "Designed a model which classifies users in facebook into two categories: teenager and adult",
+            "technologies": "Python, fb-sdk, Deep Learning"
+        }
+    ],
+    "skills":{
+        "languages" : ["Java","JavaScript","ExpressJS","NodeJS","Python","C++"],
+        "webtechnologies" : ["HTML","CSS"],
+        "datamanagement" : [],
+        "datamodelling" : []
+    },
+    "Achievements":[]
+}
